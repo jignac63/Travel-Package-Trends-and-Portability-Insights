@@ -1,5 +1,4 @@
 # Travel Package Trends and Portability Insights
-
 Overview
 This project analyzes 16,681 travel booking records to uncover customer behavior patterns, package profitability insights, and seasonal demand trends. The findings support data-driven pricing strategies, targeted marketing, and improved package offerings.
 
@@ -23,3 +22,4 @@ This project analyzes 16,681 travel booking records to uncover customer behavior
 	1.	Open the Jupyter Notebook in the notebooks/ folder for step-by-step analysis.
 	2.	Review the charts in the visuals/ folder for a quick understanding of trends.
 	3.	Read the report.pdf for consolidated findings and recommendations.
+<img width="468" height="634" alt="image" src="https://github.com/user-attachments/assets/f463378f-536d-4af9-9e82-8a480e151ca5" />

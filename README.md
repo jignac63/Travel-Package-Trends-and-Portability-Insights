@@ -17,7 +17,6 @@ This project analyzes 16,681 travel booking records to uncover customer behavior
 	•	notebooks/ – Jupyter Notebook with full analysis
 	•	visuals/ – Generated charts and graphs
 	•	report.pdf – Final summary report with insights
-
 4. How to Use
 	1.	Open the Jupyter Notebook in the notebooks/ folder for step-by-step analysis.
 	2.	Review the charts in the visuals/ folder for a quick understanding of trends.

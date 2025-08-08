@@ -1,16 +1,19 @@
-# Travel Package Trends and Portability Insights 🌍📊
+Travel Package Trends and Portability Insights
 
-This project analyzes over 16,000 travel booking records to uncover customer behavior trends, package profitability insights, and pricing strategies.
+This project analyzes 16,681 travel booking records to uncover customer behavior patterns, package profitability insights, and seasonal demand trends. The findings support data-driven pricing strategies, targeted marketing, and improved package offerings.
 
-## 🔧 Tools & Libraries
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Google Sheets
-- Microsoft Office Suite
+Tools and Technologies
+	•	Python: Pandas, NumPy, Matplotlib, Seaborn
+	•	Google Sheets
+	•	Microsoft Office Suite
 
-## 📊 Key Highlights
-- Analyzed 16,681 travel booking records to identify patterns in booking behavior, travel preferences, and seasonal demand.
-- Applied segmentation and exploratory data analysis to highlight customer types and peak trends.
-- Visualized key insights using Matplotlib and Seaborn to support data-driven pricing and marketing decisions.
+Key Highlights
+	•	Analyzed 16,681 booking records to identify patterns in customer behavior, travel preferences, and peak demand periods.
+	•	Applied segmentation and exploratory data analysis to classify customer types and highlight seasonal trends.
+	•	Created visualizations using Matplotlib and Seaborn to present insights for pricing and marketing decisions.
 
-## 📁 Project Structure
-   Check the notebook/PDF in this repository for full analysis and visuals.
+Project Structure
+	•	data/ – Raw and processed datasets
+	•	notebooks/ – Jupyter Notebook with full analysis
+	•	visuals/ – Generated charts and graphs
+	•	report.pdf – Final summary report with insights

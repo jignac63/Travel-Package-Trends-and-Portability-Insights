@@ -13,3 +13,4 @@ This project analyzes over 16,000 travel booking records to uncover customer beh
 - Visualized key insights using Matplotlib and Seaborn to support data-driven pricing and marketing decisions.
 
 ## 📁 Project Structure
+   Check the notebook/PDF in this repository for full analysis and visuals.
